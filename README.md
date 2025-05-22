@@ -20,11 +20,14 @@ An interactive Power BI dashboard providing deep insights into various country-l
 
 ## 📌 Insights Snapshot
 
-### 📍 Page 1: Demographics & Birth Rate
-![Birth Rate & Education](Birth%20Rate%20&%20Education.png)
+### 📍 Page 1: Demographics Dashboard
+![Home Page Screenshot](https://github.com/AnkitSharma80/World-Data-Analysis-2023/blob/main/World_Data_Analysis/Home%20Page%20Screenshot.png)
 
-### 📍 Page 2: Economy & CO2 Emissions
-![Home Page Screenshot](Home%20Page%20Screenshot.png)
+### 📍 Page 2: Education and Birth Rate
+![Birth Rate & Education](https://github.com/AnkitSharma80/World-Data-Analysis-2023/blob/main/World_Data_Analysis/Birth%20Rate%20%26%20Education.png)
+
+### 📍 Page 3: Summary
+![Summary](https://github.com/AnkitSharma80/World-Data-Analysis-2023/blob/main/World_Data_Analysis/Summary.png)
 
 ## 📁 Dataset Info
 
